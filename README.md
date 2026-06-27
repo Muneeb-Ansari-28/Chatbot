@@ -87,7 +87,7 @@ Project1/
 
 ```
 ==================================================
- Welcome to DecodeLabs Rule-Based Chatbot 🤖
+ Welcome to DecodeLabs Rule-Based Chatbot 
  Type 'bye', 'exit', or 'quit' to end the chat.
 ==================================================
 
@@ -101,7 +101,7 @@ You: thank you
 Bot: You're welcome!
 
 You: bye
-Bot: Goodbye! Have a great day. 👋
+Bot: Goodbye! Have a great day. 
 ```
 
 ## Code Verification ✓
