@@ -1,4 +1,4 @@
-# Project 1: Rule-Based AI Chatbot 🤖
+# Project 1: Rule-Based AI Chatbot 
 
 ## Project Overview
 A foundational rule-based chatbot that responds to predefined user inputs using dictionary-based lookup and conditional logic. This project introduces core AI concepts through simple programmatic decision-making without machine learning.
