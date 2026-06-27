@@ -14,7 +14,6 @@ A foundational rule-based chatbot that responds to predefined user inputs using 
 ```
 Project1/
 ├── project1_chatbot.py      # Main chatbot implementation
-├── Artificial intelligence P1.pdf  # Project manual
 └── README.md                # This file
 ```
 
